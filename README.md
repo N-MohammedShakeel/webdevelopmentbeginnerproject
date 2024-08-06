@@ -8,11 +8,11 @@ Welcome to the Web Development Beginner Projects Collection repository! 🎉 Thi
 | Website Name     | Visit                   |
 |------------------|------------------------|
 | Animated Clock  | [Visit](https://shakeel-storage.github.io/Animate_Clock/) |
-| Website   | [Visit]((https://shakeel-storage.github.io/API_github/)) |
-| Website   | [Visit]((https://shakeel-storage.github.io/Ball_Game/)) |
-| Website   | [Visit]((https://shakeel-storage.github.io/Black_VPN/)) |
-| Website   | [Visit]((https://shakeel-storage.github.io/Calculator/)) |
-| Website   | [Visit]((https://shakeel-storage.github.io/DiscschedulingAlgorithm/)) |
+| Website   | [Visit](https://shakeel-storage.github.io/API_github/) |
+| Website   | [Visit](https://shakeel-storage.github.io/Ball_Game/) |
+| Website   | [Visit](https://shakeel-storage.github.io/Black_VPN/) |
+| Website   | [Visit](https://shakeel-storage.github.io/Calculator/) |
+| Website   | [Visit](https://shakeel-storage.github.io/DiscschedulingAlgorithm/) |
 | Website   | [Visit](https://www.example2.com) |
 | Website   | [Visit](https://www.example2.com) |
 
