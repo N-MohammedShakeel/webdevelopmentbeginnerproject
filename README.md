@@ -13,8 +13,21 @@ Welcome to the Web Development Beginner Projects Collection repository! 🎉 Thi
 | Black_VPN   | [Visit](https://shakeel-storage.github.io/Black_VPN/) |
 | Calculator   | [Visit](https://shakeel-storage.github.io/Calculator/) |
 | DiscschedulingAlgorithm   | [Visit](https://shakeel-storage.github.io/DiscschedulingAlgorithm/) |
-| Website   | [Visit](https://www.example2.com) |
-| Website   | [Visit](https://www.example2.com) |
+| Best_Todo   | [Visit](https://shakeel-storage.github.io/Best_Todo/) |
+| Fluid_Page   | [Visit](https://shakeel-storage.github.io/Fluid_Page/) |
+| Flipping_Login_Card   | [Visit](https://shakeel-storage.github.io/Flipping_Login_Card/) |
+| Eye   | [Visit](https://shakeel-storage.github.io/Eye/) |
+| Joke_Generator   | [Visit](https://shakeel-storage.github.io/Joke_Generator/) |
+| Maths_Bot   | [Visit](https://shakeel-storage.github.io/Maths_Bot/) |
+| Markdown_Editor   | [Visit](https://shakeel-storage.github.io/Markdown_Editor/) |
+| Social_Page   | [Visit](https://shakeel-storage.github.io/Social_Page/) |
+| Metrics_Calculator   | [Visit](https://shakeel-storage.github.io/Metrics_Calculator/) |
+| Mole_in_a_Hole_Game   | [Visit](https://shakeel-storage.github.io/Mole_in_a_Hole_Game/) |
+| Notes_App   | [Visit](https://shakeel-storage.github.io/Notes_App/) |
+| Simple_Todo   | [Visit](https://shakeel-storage.github.io/Simple_Todo/) |
+| Tic_Tac_Toe   | [Visit](https://shakeel-storage.github.io/Tic_Tac_Toe/) |
+| Simple_Todo2   | [Visit](https://shakeel-storage.github.io/Simple_Todo2/) |
+| Myntra_Home   | [Visit](https://shakeel-storage.github.io/bug-free-broccoli/) |
 
 
 ## Contact
