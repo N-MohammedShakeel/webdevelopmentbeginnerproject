@@ -26,7 +26,6 @@ Welcome to the Web Development Beginner Projects Collection repository! 🎉 Thi
 | Notes_App   | [Visit](https://shakeel-storage.github.io/Notes_App/) |
 | Simple_Todo   | [Visit](https://shakeel-storage.github.io/Simple_Todo/) |
 | Tic_Tac_Toe   | [Visit](https://shakeel-storage.github.io/Tic_Tac_Toe/) |
-| Simple_Todo2   | [Visit](https://shakeel-storage.github.io/Simple_Todo2/) |
 | Myntra_Home   | [Visit](https://shakeel-storage.github.io/bug-free-broccoli/) |
 
 
