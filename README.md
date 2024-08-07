@@ -7,7 +7,6 @@ Welcome to the Web Development Beginner Projects Collection repository! 🎉 Thi
 
 | Website Name     | Visit                   |
 |------------------|------------------------|
-| Animated Clock  | [Visit](https://shakeel-storage.github.io/Animate_Clock/) |
 | API_github   | [Visit](https://shakeel-storage.github.io/API_github/) |
 | Ball_Game   | [Visit](https://shakeel-storage.github.io/Ball_Game/) |
 | Black_VPN   | [Visit](https://shakeel-storage.github.io/Black_VPN/) |
